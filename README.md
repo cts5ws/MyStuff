@@ -1,3 +1,3 @@
 # MyStuff
 
-Three java applets I made in the past
+Three java applets I made outside of school
